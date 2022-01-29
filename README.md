@@ -1,1 +1,0 @@
-# BT5.0LinuxDriver
